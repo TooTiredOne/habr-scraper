@@ -1,4 +1,4 @@
-# homework7
+# Web Scraper
 
 ### Description:
     multithread scraper for downloading the most resent articles from habr.com
